@@ -4,7 +4,7 @@ In this project, we will present a complete guide to the process of building, tr
 
 The aim of the project is to increase sales, considering that the current budget only allows investing in the website or the application. Therefore, the aim is to improve the customer experience while navigating the system, increasing the length of stay, engagement and, consequently, sales.It is important to emphasize that the data used in this project are fictitious, but represent real data from e-commerce companies. They were obtained from a month of portal operation and each column of the data set has a self-explanatory title.
 
-Keywords: R Language, Data Visualization, Data Analysis, Linear Regression, Benchmark, Ridge Regression, LASSO Regression, Machine Learning, e-commerce.
+Keywords: Python Language, Data Visualization, Data Analysis, Linear Regression, Benchmark, Ridge Regression, LASSO Regression, Machine Learning, e-commerce.
 
 # ✅ PROCESS
 
