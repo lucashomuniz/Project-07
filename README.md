@@ -1,10 +1,4 @@
-# ✅ PROJECT-12
 
-In this project, we will present a complete guide to the process of building, training, evaluating and selecting the best models among three options for Regression (Benchmark, Ridge Regression, LASSO Regression). We will demonstrate the entire process, from defining the business problem to interpreting the model and delivering the results to the decision maker. The company in question is an e-commerce that sells products both through its website and its mobile application. To make a purchase, customers need to register on the portal, using the website or the application. Each time a customer logs in, the system records the time they remain logged in. In addition, the company keeps records of sales, including the total amount spent per month for each customer.
-
-The aim of the project is to increase sales, considering that the current budget only allows investing in the website or the application. Therefore, the aim is to improve the customer experience while navigating the system, increasing the length of stay, engagement and, consequently, sales.It is important to emphasize that the data used in this project are fictitious, but represent real data from e-commerce companies. They were obtained from a month of portal operation and each column of the data set has a self-explanatory title.
-
-Keywords: Python Language, Data Visualization, Data Analysis, Linear Regression, Benchmark, Ridge Regression, LASSO Regression, Machine Learning, e-commerce.
 
 # ✅ PROCESS
 
