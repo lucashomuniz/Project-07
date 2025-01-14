@@ -1,4 +1,4 @@
-# ✅ PROJECT-7
+# ✅ PROJECT-07
 
 This project aims to carry out an analysis of socioeconomic data, aiming to provide a deeper understanding of the social and economic scenario in the business environment. Differences between regions, cities and countries will be explored, as well as the influence of indicators on customers' purchasing decisions and the possible impacts of changes in the scenario on corporate strategies. To achieve these objectives, exploratory analysis techniques will be applied to real, publicly available socioeconomic data. During the process, the data will be treated to solve problems identified in the cleaning step, guaranteeing the quality of the analyzes. In addition, we will adopt an interesting strategy of changing the perspective of the data, reorganizing them in an appropriate way. At the end, five relevant business questions will be answered, through the presentation of pertinent graphs and statistics.
 
