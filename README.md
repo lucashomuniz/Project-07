@@ -8,7 +8,7 @@ To ensure efficiency in data processing and real-time updates, transformations w
 
 **Keywords**: PowerBI, PowerQuery, DAX, Google Cloud Platform, Business Analytics, BigQuery, Data Visualization, Data Analysis.
 
-**Dashboard Link**: https://app.powerbi.com/groups/me/reports/151bc82c-0b99-4fb6-8182-82f7d9003e06?ctid=18a01ad8-9727-498a-a47d-17374c6fd9f7&pbi_source=linkShare&bookmarkGuid=089bcccd-2348-4fd4-940c-f2dd4d52286d
+**Dashboard Link**: https://app.powerbi.com/groups/me/reports/ec49379e-a63e-4a60-957d-352324ebc267?ctid=18a01ad8-9727-498a-a47d-17374c6fd9f7&pbi_source=linkShare
 
 # ✅ PROCESS
 
