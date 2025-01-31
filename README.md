@@ -1,4 +1,4 @@
-# ✅ PROJECT-22
+# ✅ PROJECT-13
 
 In this project, **developed for Green Flow**, a liquid fertilizer manufacturer, the objective is to analyze financial sales data from **2023 and 2024** alongside specific **product characteristics** to deliver strategic insights for commercial decision-making. The datasets include details such as **fertilizer identification**, **chemical types**, **usage recommendations**, **average prices per gallon**, **monthly revenue**, **sustainability**, and **sales status**.
 
@@ -7,8 +7,6 @@ The project focuses on assessing data consistency and creating a **visualization
 Data transformations are executed directly at the source using **SQL in BigQuery** within the **Google Cloud Platform (GCP)**. This approach enables a **real-time data pipeline**, directly connecting Power BI to GCP, eliminating the need for manual data loads. The final deliverable is a robust analytical solution aligned with Green Flow's commercial goals, emphasizing the dashboard's functionality and the primary business insights derived from the analysis.
 
 **Keywords**: PowerBI, PowerQuery, DAX, Google Cloud Platform, Business Analytics, BigQuery, Data Visualization, Data Analysis.
-
-**Dashboard Link**: https://app.powerbi.com/groups/me/reports/ec49379e-a63e-4a60-957d-352324ebc267?ctid=18a01ad8-9727-498a-a47d-17374c6fd9f7&pbi_source=linkShare
 
 # ✅ PROCESS
 
