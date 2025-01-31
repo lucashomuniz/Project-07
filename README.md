@@ -1,4 +1,4 @@
-# ✅ PROJECT-12
+# ✅ PROJECT-07
 
 In this project, we provide a comprehensive guide to constructing, training, evaluating, and selecting the best **Regression** models among three approaches: **Benchmark**, **Ridge Regression**, and **LASSO Regression**. We cover the entire process—from defining the business problem to interpreting the models and delivering results to decision-makers. The company under analysis is an **e-commerce** that sells products via a **website** and **mobile application**. Each customer login is recorded with its session duration, and sales data (total monthly spending per customer) is also tracked.
 
