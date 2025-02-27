@@ -12,23 +12,23 @@ Data transformations are executed directly at the source using **SQL in BigQuery
 
 The analysis of the **ID** variable revealed significant variation in product performance, highlighting fertilizers with **lower average prices** as top performers in both **sales volume** and **revenue**. These findings emphasize the value of **promotional campaigns** targeting low-cost products to attract consumers with **lower purchasing power**. The comparison of **2024 Average Price** and **Revenue** suggests an opportunity to further boost revenue by focusing on this segment. The strong consumer preference for **affordable products** validates the effectiveness of a **mass-market strategy**, which should be expanded. Sales volume data reinforce this trend, with economical products dominating, presenting opportunities to **optimize margins** and drive additional revenue growth.
 
-![Screenshot 2025-01-24 at 23 29 04](https://github.com/user-attachments/assets/f7ec37da-f44e-47a1-89ce-02046d11fcad)
+![1](https://github.com/user-attachments/assets/13af5506-062e-47d8-b80a-fcf8e271789b)
 
 When segmenting the analysis by **TYPE**, **organic fertilizers** led in **sales volume**, while **mineral fertilizers** were the most **profitable**, indicating higher **margins** and greater **perceived market value**. In contrast, **synthetic fertilizers** showed lower market participation, aligning with the company's focus on **preservation** and **sustainability**. This pattern reflects a strategic positioning favoring fertilizers linked to **responsible agricultural practices**. The combination of high **sales volume** in organics and higher **revenues** in minerals suggests an opportunity to explore **hybrid strategies** that cater to diverse market segments, enabling the company to expand its reach while maintaining its **sustainable approach**.
 
-![Screenshot 2025-01-24 at 23 29 14](https://github.com/user-attachments/assets/d7e69f0e-c0bf-478b-b672-c892a7115ec8)
+![2](https://github.com/user-attachments/assets/2763ae1d-f0a4-4ac3-918d-00b1290ed18d)
 
 The analysis of the **USAGE INDICATION** variable revealed that fertilizers designed for **fruit** and **grain crops** dominate the portfolio in both **sales volume** and **revenue**, establishing them as core pillars of the business. Fertilizers for **vegetables**, while secondary, offer strategic growth potential in specific niches. A clear correlation exists between the **mineral** and **organic types**, which consistently lead in revenue and sales volume, and the company's commitment to **environmental sustainability**. The underperformance of **synthetic fertilizers** further underscores Green Flow's focus on **sustainable agricultural practices**. These findings suggest prioritizing campaigns tailored to the demands of **fruit** and **grain crops**, while strategically exploring the **vegetable market** to expand the consumer base and capture new opportunities.
 
-![Screenshot 2025-01-24 at 23 29 24](https://github.com/user-attachments/assets/ca42edd3-faf5-4902-8aa9-60c85309e8c0)
+![3](https://github.com/user-attachments/assets/c84d7199-6e1f-4bed-9746-4e8f9b45b9e7)
 
 The analysis of **SALES STATUS** revealed that **active products** contribute **86% of total revenue**, while **discontinued products**, representing only **8% of the portfolio**, maintain financial significance with **higher average prices**, reflecting a **premium positioning**. These discontinued fertilizers rank among the top three in average price, suggesting their removal aligns with a strategy to prioritize **low-cost products** for broader market reach. This reinforces the company's shift toward **affordable, high-demand fertilizers** to cater to a wider audience. Implementing regular **product lifecycle analysis** could help prevent the premature discontinuation of items with untapped market potential.
 
-![Screenshot 2025-01-24 at 23 30 18](https://github.com/user-attachments/assets/22772fa4-20ed-476f-affb-ce50e4041e09)
+![4](https://github.com/user-attachments/assets/bd82bf0e-ea27-436b-8829-a2f89ec54d5b)
 
 The **SUSTAINABILITY** variable revealed that fertilizers classified as **"High Sustainability"** led in **sales volume**, while **"Medium Sustainability"** products generated the highest **revenue**, balancing **competitive pricing** with strong market acceptance. These results highlight not only a business strategy but also an internal culture committed to **environmentally responsible practices**. This analysis aligns with other variables, such as **type** and **usage**, confirming that **sustainability** is a core value for Green Flow. The company is well-positioned to attract **environmentally conscious consumers**, leveraging the **environmental benefits** of its products as a competitive differentiator.
 
-![Screenshot 2025-01-24 at 23 31 00](https://github.com/user-attachments/assets/13d3cd00-bbe6-48f1-9759-74344b8d0fe9)
+![5](https://github.com/user-attachments/assets/74d3ee01-895e-4281-9daf-68ee860b701c)
 
 # ✅ CONCLUSION
 
