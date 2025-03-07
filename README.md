@@ -1,4 +1,4 @@
-# ✅ PROJECT-13
+# ✅ PROJECT-07
 
 In this project, **developed for Green Flow**, a liquid fertilizer manufacturer, the objective is to analyze financial sales data from **2023 and 2024** alongside specific **product characteristics** to deliver strategic insights for commercial decision-making. The datasets include details such as **fertilizer identification**, **chemical types**, **usage recommendations**, **average prices per gallon**, **monthly revenue**, **sustainability**, and **sales status**.
 
