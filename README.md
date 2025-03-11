@@ -8,8 +8,6 @@ Data transformations are executed directly at the source using **SQL in BigQuery
 
 **Keywords**: PowerBI, PowerQuery, DAX, Google Cloud Platform, Business Analytics, BigQuery, Data Visualization, Data Analysis.
 
-**Link**: https://app.powerbi.com/links/ka2heGKwkf?ctid=d69a7783-e937-4232-ba85-2098408382c8&pbi_source=linkShare
-
 # ✅ PROCESS
 
 The analysis of the **ID** variable revealed significant variation in product performance, highlighting fertilizers with **lower average prices** as top performers in both **sales volume** and **revenue**. These findings emphasize the value of **promotional campaigns** targeting low-cost products to attract consumers with **lower purchasing power**. The comparison of **2024 Average Price** and **Revenue** suggests an opportunity to further boost revenue by focusing on this segment. The strong consumer preference for **affordable products** validates the effectiveness of a **mass-market strategy**, which should be expanded. Sales volume data reinforce this trend, with economical products dominating, presenting opportunities to **optimize margins** and drive additional revenue growth.
