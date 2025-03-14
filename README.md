@@ -36,5 +36,5 @@ The analysis revealed that fertilizers with **lower average prices** lead in bot
 
 The **Sustainability** analysis reaffirmed the company's commitment to **environmentally responsible practices**, showing that **high-sustainability fertilizers** lead in sales volume, while **medium-sustainability products** balance **revenue** and **market acceptance**. These results consolidate Green Flow's position as a leader in **sustainable agricultural solutions**, demonstrating that the synergy between **accessibility**, **sustainability**, and **innovation** can continue to drive success. This project highlighted strategic patterns and opportunities, providing a solid foundation for **future commercial decisions** aligned with Green Flow's goals of **growth** and **sustainable innovation**.
 
-**Dashboard**: https://app.powerbi.com/reportEmbed?reportId=885a17dd-c60d-4fb2-94ab-9f97c44cdd9c&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
+**Dashboard**: https://app.powerbi.com/view?r=eyJrIjoiN2FmNmIwNDMtMjYyZi00NDlhLTkzOTEtNDFlZjQyZTFhNTUxIiwidCI6ImQ2OWE3NzgzLWU5MzctNDIzMi1iYTg1LTIwOTg0MDgzODJjOCJ9
 
